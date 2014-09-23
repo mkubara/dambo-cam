@@ -10,8 +10,8 @@
 #include <wiringPi.h>
 
 #define PIN_LED 10
-#define PIN_BEEP 9
-#define PIN_SW 11
+#define PIN_SW 9
+#define PIN_BEEP 11
 
 
 //----------------------------------------------------------
